@@ -1,1 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T03:49:47.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ucVxoZfn5c_dPQskMM-9" type="github"><diagram id="Q1yKB26G_RDYpCivBZyL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T02:20:26.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="cPNe_C4LZrldel8eCuSB" type="github">
+  <diagram id="QhIaB1dH1RrOR36_XKA_" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e61mhTK_xHsi6u71PIFe-1" value="Home Secure" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e61mhTK_xHsi6u71PIFe-2" value="Controller App (Admin App)" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e61mhTK_xHsi6u71PIFe-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="e61mhTK_xHsi6u71PIFe-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e61mhTK_xHsi6u71PIFe-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="e61mhTK_xHsi6u71PIFe-4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e61mhTK_xHsi6u71PIFe-4" value="Web/Window Application" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e61mhTK_xHsi6u71PIFe-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="700" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="e61mhTK_xHsi6u71PIFe-9" value="Web/Window&amp;nbsp;&lt;br&gt;Application" style="shape=offPageConnector;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
